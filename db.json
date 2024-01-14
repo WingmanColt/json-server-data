@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Product1",
+      "isComplated": true,
+      "status": "approved"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Product2",
+      "isComplated": true,
+      "status": "rejected"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "title": "Product3",
+      "isComplated": true,
+      "status": "pending"
+    }
+  ]
+}
